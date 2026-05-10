@@ -1,4 +1,4 @@
-# TRISNA ROY
+# TRISNA RANI ROY
 
 Computer Science & Engineering Graduate  
 Python | Web Development | Machine Learning | SQL | Problem Solving
